@@ -1,0 +1,34 @@
+# AIOps Alert Analysis System Requirements
+
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Machine Learning Libraries
+scikit-learn>=1.1.0
+tensorflow>=2.10.0
+statsmodels>=0.13.0
+
+# Visualization Libraries
+plotly>=5.10.0
+plotly-dash>=2.6.0
+
+# Utility Libraries
+pickle-mixin>=1.0.2
+
+# Optional: For advanced time series analysis
+prophet>=1.1.0
+
+# Optional: For enhanced clustering
+hdbscan>=0.8.28
+
+# Optional: For text processing
+nltk>=3.7
+spacy>=3.4.0
+
+# Development and Testing
+pytest>=7.0.0
+jupyter>=1.0.0
+ipython>=8.0.0
